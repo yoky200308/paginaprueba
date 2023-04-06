@@ -1,2 +1,2 @@
 # paginaprueba
-es una prueba para probar el citio
+es una prueba para probar el sitio
